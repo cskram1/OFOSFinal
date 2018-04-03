@@ -56,7 +56,7 @@
                                 <ul>
                                     <li><a href="file:///C:/Users/Christian/Desktop/IT%20341/OFOS1-master/OFOS1-master/WebContent/index.html#home">Home</a></li>
 
-                                    <li><a href="reg.jsp">Order </a></li>
+                                    <li><a href="reg.js>Order </a></li>
 
                                 </ul>
                             </nav>
