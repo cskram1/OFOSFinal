@@ -34,14 +34,10 @@
                 <div class="row clearfix" id="home">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="logo">
-                            <h1> <a href="file:///C:/Users/Christian/Desktop/IT%20341/OFOS1-master/OFOS1-master/WebContent/index.html#"><img src="./indexUpdated_files/TMPS000136.png" alt=""></a> </h1>
+                            <h1> <a href="index.jsp"><img src="./indexUpdated_files/TMPS000136.png" alt=""></a> </h1>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                        <div class="contact">
-                            <p>Questions? Call us Toll-free!<span class="number"><a href="file:///C:/Users/Christian/Desktop/IT%20341/OFOS1-master/OFOS1-master/WebContent/index.html#">1800-0000-7777</a></span><span class="time">(11AM to 11PM)</span></p>
-                        </div>
-                    </div>
+           
                 </div>
             </div>
         </header>
@@ -54,7 +50,7 @@
                             <div class="mobile-nav-btn"><img class="nav-open" src="./indexUpdated_files/nav-open.png" alt="Nav Button Open"> <img class="nav-close" src="./indexUpdated_files/nav-close.png" alt="Nav Button Close"> </div>
                             <nav>
                                 <ul>
-                                    <li><a href="file:///C:/Users/Christian/Desktop/IT%20341/OFOS1-master/OFOS1-master/WebContent/index.html#home">Home</a></li>
+                                    <li><a href="index.jsp">Home</a></li>
 
                                     <li><a href="reg.js>Order </a></li>
 
